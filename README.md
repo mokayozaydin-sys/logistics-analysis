@@ -37,5 +37,5 @@ pip install pandas matplotlib seaborn faker
  
  In the same directory, logistics_analysis. You will see that the db (Database) and logistic_kpi_visual.png (Graphic) files have been created.
 
- ##My Future Plans
+ ## My Future Plans
   In the next phase of this project, I plan to use JavaScript (Chart.js) to extract this data from a static image and transform it into an interactive dashboard that can be filtered live on the web.
