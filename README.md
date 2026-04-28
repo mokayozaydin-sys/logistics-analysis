@@ -1,4 +1,4 @@
-# Maritime Logistics Data Warehouse & BI Automation
+# OceanInsight-BI: Maritime Data Warehouse & ETL Pipeline
 
 ## 📌 Executive Summary
 In the global supply chain, relying on static spreadsheets for maritime operations (Ocean Import) often leads to delayed decisions and obscured cost inefficiencies. This project solves that problem by replacing manual tracking with a fully automated **Business Intelligence (BI) and Data Warehouse** pipeline. 
